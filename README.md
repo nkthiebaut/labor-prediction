@@ -6,7 +6,7 @@ Messing with [Streamlit](https://streamlit.io) and the [Birth Dataset from the C
 
 ## Development
 
-1. Download the 2019 US birth data from the [website of the CDC](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/DVS/natality/Nat2019us.zip) and unzip it (the corresponding documentation is available [here](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/DVS/natality/UserGuide2019-508.pdf)).
+1. Download the 2019 US birth data from the website of the CDC with the link above link above and unzip it.
 2. Run the preprocessing script: `bash preprocessing.sh`
 3. Install requirements: `pip install -r requirements.txt`
 4. Run the app: `streamlit run streamlit_app.py`
